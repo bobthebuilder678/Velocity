@@ -2,9 +2,9 @@
 
 <img width="150px" src="https://raw.githubusercontent.com/cohenerickson/Velocity/main/public/icons/512.png">
 
-# Velocity
+# The Thing
 
-Velocity is a fully featured tabbed proxy with a **seamless browsing experience**.
+The Thing is a fully featured tabbed proxy with a **seamless browsing experience**.
 
 [Features](#features) •
 [Deployment](#deployment) •
